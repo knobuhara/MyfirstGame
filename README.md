@@ -1,5 +1,5 @@
 # MyfirstGame
-# 玉転がし
+# 初めてのUnity 玉転がし
 
 A new Unity project.
 
